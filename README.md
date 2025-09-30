@@ -1,7 +1,7 @@
 # Hi there, I'm George 👋
 
-<a href="#"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>&nbsp;
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="www.linkedin.com/in/gkalog"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=XufJtsgAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>&nbsp;
 
 <br/>
 
@@ -20,6 +20,6 @@ I'm a **computational biologist & genomics researcher**. I build tools and analy
 - Clean, modern pipelines for **microbiome** and **phylogenetics**
 
 ---
-![alt text](https://github.com/g-kalogiannis/g-kalogiannis/blob/main/host_phylogeny_with_microbiome_bars.svg?raw=true)
+![](https://github.com/g-kalogiannis/g-kalogiannis/blob/main/host_phylogeny_with_microbiome_bars.svg?raw=true)
 
 ---
