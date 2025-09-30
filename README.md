@@ -13,16 +13,13 @@ I'm a **computational biologist & genomics researcher**. I build tools and analy
 
 ---
 
-## One-pager (PDF)
-
-[![PDF](https://img.shields.io/badge/One%E2%80%91pager%20PDF-444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/profile_overview.pdf)
-
----
-
 ## What I’m working on
 
 - Platforms to analyse **microbial ecosystems**  
 - **Comparative genomics** analyses across many species  
 - Clean, modern pipelines for **microbiome** and **phylogenetics**
+
+---
+![alt text](https://github.com/g-kalogiannis/g-kalogiannis/blob/[branch]/image.jpg?raw=true)
 
 ---
