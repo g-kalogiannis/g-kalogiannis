@@ -20,6 +20,6 @@ I'm a **computational biologist & genomics researcher**. I build tools and analy
 - Clean, modern pipelines for **microbiome** and **phylogenetics**
 
 ---
-![alt text](https://github.com/g-kalogiannis/g-kalogiannis/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/g-kalogiannis/g-kalogiannis/blob/main/host_phylogeny_with_microbiome_bars.svg?raw=true)
 
 ---
