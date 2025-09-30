@@ -25,12 +25,4 @@ I'm a **computational biologist & genomics researcher**. I build tools and analy
 - **Comparative genomics** analyses across many species  
 - Clean, modern pipelines for **microbiome** and **phylogenetics**
 
-> ## Selected repos
->
-> - 🔧 **Microbiome tools** — plotting microbiome bars next to host trees  
-> - 📦 **Allometry R package** — conversions between length and mass across taxa  
-> - 🧬 **Phylogeny helpers** — utilities for tree I/O, labeling, and matching  
->
-> Replace these with links to your public repositories.
-
 ---
